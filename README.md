@@ -18,10 +18,10 @@ Período de 6 meses
 - KR3: Investir na area que estou trabalhando
 
 ### Objetivo 2: Investir
-- KR1: 
-- KR2: Atingir 90% de cobertura de testes automatizados
+- KR1: Investir o meu tempo estudando a area de t.i
+- KR2: Investir em mim mesmo fazendo cursos da area de t.i
 
-### Objetivo 3: [Ex: Criar comunidade em torno do projeto]
-- KR1: Conseguir 50 estrelas no GitHub
-- KR2: Publicar 3 tutoriais técnicos no Dev.to ou Medium
+### Objetivo 3: Faculdade
+- KR1: Fazer faculdade na area de t.i
+- KR2: Na faculdade se esforçar ao maximo para aprender o maximo que puder
 - KR3: Participar de 1 evento de tecnologia
