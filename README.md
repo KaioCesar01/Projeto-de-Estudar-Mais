@@ -45,8 +45,8 @@ Período de 6 meses
 | 2   | Tabalhos feitos                    | Analise de máquinas, manutenção de máquinas  |
 | 3   | MVP 1                                   | Estudos de todas areas se t.i        |
 | 4   | MVP 2 com melhorias                     | Refino de estudos                        |
-| 5   | Validação e crescimento                 | Métricas, marketing, conteúdo, comunidade      |
-| 6   | Entrega final e apresentação            | Release final, documentação, apresentação      |
+| 5   | Validação e crescimento                 | Provas      |
+| 6   | Entrega final            | Resultados das provas    |
 
 ---
 
@@ -65,10 +65,11 @@ Período de 6 meses
 
 ## 🔚 Relatório Final (preencher no final do projeto)
 
-- **Resumo do Projeto**:
-- **Resultados Alcançados**:
-- **OKRs atingidos**:
-- **KPIs finais**:
-- **Lições Aprendidas**:
-- **Dificuldades enfrentadas**:
+- O projeto consiste em dedicar ao maximo para poder estudar e conseguir um emprego na area de t.i
+- Os resultados alcançados no momento não foram nenhum mas estou trabalhando para tornar isso possivel
+- No momento não atingi nenhum OKR
+- No momento não finalizei nenhum KPI
+- Aprendi que essa area é dificil
+- As dificuldades enfrentadas foram mais na questão de oportunidades adquiridas para poder fazer os trabalhos
+
 - **Próximos passos (caso continue o projeto)**:
