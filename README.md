@@ -25,3 +25,50 @@ Período de 6 meses
 - KR1: Fazer faculdade na area de t.i
 - KR2: Na faculdade se esforçar ao maximo para aprender o maximo que puder
 - KR3: Participar de 1 evento de tecnologia
+
+## 📊 KPIs (Indicadores Chave de Desempenho)
+
+| Indicador                | Meta          | Atual |
+|--------------------------|---------------|--------|
+| Número de matarias estudadas| 10           | 0      |
+| Trabalhos feitos          | < 20          | N/D    |
+| Elogios recebidos          | 7           | 0      |
+| Testes pessoais     | 8                 | 0   |
+
+---
+
+## 🗺️ Roadmap (Resumo de 6 Meses)
+
+| Mês | Meta Principal                         | Entregas esperadas                             |
+|-----|-----------------------------------------|------------------------------------------------|
+| 1   | Planejamento e visão                    | Missão, Visão, Valores, OKRs e KPIs            |
+| 2   | Tabalhos feitos                    | Analise de máquinas, manutenção de máquinas  |
+| 3   | MVP 1                                   | Estudos de todas areas se t.i        |
+| 4   | MVP 2 com melhorias                     | Refino de estudos                        |
+| 5   | Validação e crescimento                 | Métricas, marketing, conteúdo, comunidade      |
+| 6   | Entrega final e apresentação            | Release final, documentação, apresentação      |
+
+---
+
+## ✅ Status dos Sprints
+
+| Sprint | Status | Principais Tarefas                                  |
+|--------|--------|------------------------------------------------------|
+| Sprint 1 | 🔄 Em andamento | Definir propósito e estrutura do projeto         |
+| Sprint 2 | ⬜️ Não iniciado | Setup técnico e primeiras funcionalidades        |
+| Sprint 3 | ⬜️ Não iniciado | MVP funcional e validação inicial               |
+| Sprint 4 | ⬜️ Não iniciado | Iteração de melhorias com base no feedback      |
+| Sprint 5 | ⬜️ Não iniciado | Estratégias de alcance e comunidade             |
+| Sprint 6 | ⬜️ Não iniciado | Apresentação final, métricas, relatório geral   |
+
+---
+
+## 🔚 Relatório Final (preencher no final do projeto)
+
+- **Resumo do Projeto**:
+- **Resultados Alcançados**:
+- **OKRs atingidos**:
+- **KPIs finais**:
+- **Lições Aprendidas**:
+- **Dificuldades enfrentadas**:
+- **Próximos passos (caso continue o projeto)**:
