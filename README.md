@@ -10,7 +10,23 @@ Trabalho duro supera o talento
 - Rever meu plano de desenvolvimento individual;
 - Resolver problemas com empatia aos usuários.
 ## OKRs (Objectives and Key Results)
-Período de 6 meses
+
+### Objetivo 1: Ser aprovado no processo Seletivo para Analista ou Estag de Redes
+
+KR1 - Ser convocado para 20 processos seletivos em 2 meses para para Analista ou Estag de Redes
+KR2 - Inscrição em 60 processos seletivos em 1 mês
+KR3 - Ter o feedback das entrevistas que justifiquem os resultados com pontos a desenvolver e pontos fortes.
+KR4 - Garantir conhecimento necessário para atender os requisitos das vagas
+
+### Objetivo 2: Completar a etapa de contratação e integração na empresa
+
+KR1 - Ser convocado para 20 processos seletivos em 2 meses para para Analista ou Estag de Redes
+KR2 - Inscrição em 60 processos seletivos em 1 mês
+KR3 - Ter o feedback das entrevistas que justifiquem os resultados com pontos a desenvolver e pontos fortes.
+
+## Objetivo 3: Ser destaque no período de experincia
+
+Ser efetivado antes da finalização do contrato
 
 ### Objetivo 1: Trabalhar
 - KR1: Tentar arrumar um emprego na area de t.i
