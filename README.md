@@ -25,22 +25,13 @@ KR2 - Inscrição em 60 processos seletivos em 1 mês
 KR3 - Ter o feedback das entrevistas que justifiquem os resultados com pontos a desenvolver e pontos fortes.
 
 ## Objetivo 3: Ser destaque no período de experincia
+KR1 - Não ter atrasos no meprego novo
+KR2 - Sempre pedir feedback do seu desenvolvimento na empresa
 
-Ser efetivado antes da finalização do contrato
+## Objetivo 4: Ser efetivado antes da finalização do contrato
+KR1 - Ser um funcionario que os outros podem contar
 
-### Objetivo 1: Trabalhar
-- KR1: Tentar arrumar um emprego na area de t.i
-- KR2: Trabalhar duro para poder aprender o maximo possivel
-- KR3: Investir na area que estou trabalhando
 
-### Objetivo 2: Investir
-- KR1: Investir o meu tempo estudando a area de t.i
-- KR2: Investir em mim mesmo fazendo cursos da area de t.i
-
-### Objetivo 3: Faculdade
-- KR1: Fazer faculdade na area de t.i
-- KR2: Na faculdade se esforçar ao maximo para aprender o maximo que puder
-- KR3: Participar de 1 evento de tecnologia
 
 ## 📊 KPIs (Indicadores Chave de Desempenho)
 
@@ -57,9 +48,9 @@ Ser efetivado antes da finalização do contrato
 
 | Mês | Meta Principal                         | Entregas esperadas                             |
 |-----|-----------------------------------------|------------------------------------------------|
-| 1   | Planejamento e visão                    | Missão, Visão, Valores, OKRs e KPIs            |
-| 2   | Tabalhos feitos                    | Analise de máquinas, manutenção de máquinas  |
-| 3   | MVP 1                                   | Estudos de todas areas se t.i        |
+| 1   | Se destacar na empresa                    | Elogios constantes            |
+| 2   | Tabalhos feitos                    | Analise da rede da empresa  |
+| 3   | MVP 1                                   | Estudos da area de redes        |
 | 4   | MVP 2 com melhorias                     | Refino de estudos                        |
 | 5   | Validação e crescimento                 | Provas      |
 | 6   | Entrega final            | Resultados das provas    |
