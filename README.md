@@ -26,6 +26,7 @@ KR3 - Ter o feedback das entrevistas que justifiquem os resultados com pontos a 
 
 ## Objetivo 3: Ser destaque no período de experincia
 KR1 - Não ter atrasos no meprego novo
+
 KR2 - Sempre pedir feedback do seu desenvolvimento na empresa
 
 ## Objetivo 4: Ser efetivado antes da finalização do contrato
