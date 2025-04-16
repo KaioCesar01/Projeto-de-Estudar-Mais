@@ -30,9 +30,9 @@ Período de 6 meses
 
 | Indicador                | Meta          | Atual |
 |--------------------------|---------------|--------|
-| Número de matarias estudadas| 10           | 0      |
+| Número de matarias estudadas| 7           | 0      |
 | Trabalhos feitos          | < 20          | N/D    |
-| Elogios recebidos          | 7           | 0      |
+| Elogios recebidos          | 2           | 0      |
 | Testes pessoais     | 8                 | 0   |
 
 ---
