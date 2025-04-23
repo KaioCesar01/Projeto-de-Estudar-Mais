@@ -6,7 +6,7 @@ Trabalho duro supera o talento
 #### Valores 
 - Exelência nas atividades diárias;
 - Estar disposto a aprender;
-- Execer auto-análise sobre meu desempenho;
+- Exercer auto-análise sobre meu desempenho;
 - Rever meu plano de desenvolvimento individual;
 - Resolver problemas com empatia aos usuários.
 ## OKRs (Objectives and Key Results)
