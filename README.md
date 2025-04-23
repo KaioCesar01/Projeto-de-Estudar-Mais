@@ -86,12 +86,14 @@ KR1 - Ser um funcionario que os outros podem contar
 - As dificuldades enfrentadas foram mais na questão de oportunidades adquiridas para poder fazer os trabalhos
 
 ## 👥 Equipe
+
 | Nome | GitHub | Função no Projeto |
-| Kaio Cesar| @KaioCesar01 | 
-| Samuel Alex | @Samuel.Tavares |
-| Rafael Monte | @RafaelMonte11 |
-| Erik Nunes | @Erik9989 |
+|------|--------|--------------------|
+| Abraão | ?????? |
+| Carlos Alves | @???? | 
+| Erik Nunes | @Erik9989 | 
+| Kaio Cesar | @KaioCesar01 |
+| Rafael Monte | @RafaelMonte11 | 
+| Raphael Souza | @Raphafsx |
+| Samuel Alex | @Samuel.Alex |
 | Vitor Azevedo | @Vitor-chef |
-| Raphael Souza| @Raphafsx |
-| Abraão | ???? |
-| Carlos Alves | ????? |
