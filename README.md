@@ -85,4 +85,13 @@ KR1 - Ser um funcionario que os outros podem contar
 - Aprendi que essa area é dificil
 - As dificuldades enfrentadas foram mais na questão de oportunidades adquiridas para poder fazer os trabalhos
 
-- **Próximos passos (caso continue o projeto)**:
+## 👥 Equipe
+| Nome | GitHub | Função no Projeto |
+| Kaio Cesar| @KaioCesar01 | 
+| Samuel Alex | @Samuel.Tavares |
+| Rafael Monte | @RafaelMonte11 |
+| Erik Nunes | @Erik9989 |
+| Vitor Azevedo | @Vitor-chef |
+| Raphael Souza| @Raphafsx |
+| Abraão | ???? |
+| Carlos Alves | ????? |
