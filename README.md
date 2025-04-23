@@ -29,8 +29,8 @@ KR2 - Inscrição em 60 processos seletivos em 1 mês
 
 KR3 - Ter o feedback das entrevistas que justifiquem os resultados com pontos a desenvolver e pontos fortes.
 
-## Objetivo 3: Ser destaque no período de experincia
-KR1 - Não ter atrasos no meprego novo
+## Objetivo 3: Ser destaque no período de experiencia
+KR1 - Não ter atrasos no emprego novo
 
 KR2 - Sempre pedir feedback do seu desenvolvimento na empresa
 
