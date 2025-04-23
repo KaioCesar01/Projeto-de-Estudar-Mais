@@ -43,7 +43,7 @@ KR1 - Ser um funcionario que os outros podem contar
 
 | Indicador                | Meta          | Atual |
 |--------------------------|---------------|--------|
-| Número de matarias estudadas| 7           | 0      |
+| Número de materias estudadas| 7           | 0      |
 | Trabalhos feitos          | < 20          | N/D    |
 | Elogios recebidos          | 2           | 0      |
 | Testes pessoais     | 8                 | 0   |
