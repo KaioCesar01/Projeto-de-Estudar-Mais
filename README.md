@@ -90,7 +90,6 @@ KR1 - Ser um funcionario que os outros podem contar
 | Nome | GitHub | Função no Projeto |
 |------|--------|--------------------|
 | Abraão | ?????? |
-| Carlos Alves | @???? | 
 | Erik Nunes | @Erik9989 | 
 | Kaio Cesar | @KaioCesar01 |
 | Rafael Monte | @RafaelMonte11 | 
