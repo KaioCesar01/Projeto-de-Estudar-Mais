@@ -93,6 +93,6 @@ KR1 - Ser um funcionario que os outros podem contar
 | Erik Nunes | @Erik9989 | 
 | Kaio Cesar | @KaioCesar01 |
 | Rafael Monte | @RafaelMonte11 | 
-| Raphael Souza | @Raphafsx |
+| Isabela | |
 | Samuel Alex | @Samuel.Alex |
 | Vitor Azevedo | @Vitor-chef |
